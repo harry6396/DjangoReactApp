@@ -1,0 +1,12 @@
+.menubarContainer {}
+
+.menu {
+    margin-top: 2%;
+    margin-left: 3%;
+    width: 10%;
+    height: 34px;
+    border: none;
+    border-radius: 26px;
+    font-size: 22px;
+    cursor: pointer;
+}

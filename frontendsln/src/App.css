@@ -1,0 +1,31 @@
+.headerContainer {
+  background-color: #B7B7F2;
+  width: 100%;
+  padding-top: 6%;
+  padding-bottom: 2%;
+  position: sticky;
+}
+
+.headerContainerText {
+  font-size: 44px;
+  font-family: nospace;
+  padding-left: 28%;
+  font-weight: 700;
+  color: whitesmoke;
+}
+
+.searchBar {
+  width: 39%;
+  height: 52px;
+  border: none;
+  border-radius: 45px;
+  padding-left: 1.5%;
+  margin-left: 2%;
+  margin-top: 4%;
+  font-size: 20px;
+}
+
+.search-icon {
+  font-size: 30px;
+  margin-left: -3%;
+}
