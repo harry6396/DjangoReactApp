@@ -23,7 +23,7 @@ class App extends Component {
         {this.state.toShowLoader?
         <div className="loaderContainer">
         <Loader 
-         type="Ball-Triangle"
+         type="Circles"
          color="#00BFFF"
          height="100"	
          width="100"/>
