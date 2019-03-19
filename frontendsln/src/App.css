@@ -3,7 +3,9 @@
   width: 100%;
   padding-top: 6%;
   padding-bottom: 2%;
+  top: 0;
   position: sticky;
+  z-index: 1;
 }
 
 .headerContainerText {
@@ -32,9 +34,4 @@
 
 .dataContainer{
   
-}
-
-.loaderContainer{
-  margin-left: 50%;
-  margin-top: 10%;
 }

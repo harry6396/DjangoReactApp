@@ -17,8 +17,9 @@ class MenuBar extends React.Component{
     render(){
         return(
             <div className="menubarContainer">
-                <input type = "button" value="Home" className="menu" onClick={this.onClick}/>
                 <input type = "button" value="Filter" className="menu" onClick={this.onClick}/>
+                <input type = "button" value="Add" className="menu" onClick={this.onClick}/>
+                <div className="fa fa-plus plusIcon"></div>
             </div>
         );
     }

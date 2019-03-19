@@ -1,0 +1,32 @@
+.loaderContainer {
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
+.songContainer {
+    height: 136px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: #b1b1f2 3px solid;
+    border-radius: 32px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-left: 18px;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: space;
+}
+
+.songContainer:hover {
+    background-color: blueviolet;
+    color: white;
+    font-size: 30px;
+}
+
+.noDataAvailable{
+    font-size: 35px;
+    margin-left: 35%;
+    margin-top: 10%;
+    color: blueviolet;
+}
