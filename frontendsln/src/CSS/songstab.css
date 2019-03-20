@@ -16,12 +16,14 @@
     cursor: pointer;
     font-size: 20px;
     font-family: space;
+    max-width: 250px;
+    min-width: 250px;
 }
 
 .songContainer:hover {
     background-color: blueviolet;
     color: white;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 .noDataAvailable{

@@ -3,8 +3,6 @@ import './App.css';
 import MenuBar from './menubar';
 import SongsDetails from './SongsTab';
 
-
-
 class App extends Component {
   constructor(props){
     super(props);
