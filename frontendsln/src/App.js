@@ -40,9 +40,9 @@ componentDidMount(){
           comp.setState({songs:Object.entries(JSON.parse(result).status), isDataAvailable: isDataFetched});
         },
         (error) => {
-        }
-      )
-    }
+      }
+    )
+  }
 
   render() {
     return (

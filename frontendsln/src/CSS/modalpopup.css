@@ -63,3 +63,32 @@
   font-family: space;
   padding-bottom: 15px;
 }
+
+.addModalField {
+  font-size: 20px;
+}
+
+.modal-footer {
+  padding-top: 15px;
+  padding-bottom: 26px;
+}
+
+.submit-button {
+  width: 20%;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color: rgb(183, 183, 242);
+  color: white;
+  float: right;
+  cursor: pointer;
+}
+
+.modal-fields-add {
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 50px;
+  min-width: 150px;
+  max-width: 150px;
+}
